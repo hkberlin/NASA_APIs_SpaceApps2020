@@ -1,4 +1,4 @@
-# 🤖 [NASA Space Apps 2020](https://nasaspaceappscr.globalhackathons.co/) 🛰️ 
+# 🤖 [NASA Space Apps 2020](https://2020.spaceappschallenge.org/locations/san-jose/event) 🛰️ 
 ### Getting started with the NASA APIs and Build a Web App using Satellite Images & Earth Observation Data for the Space Apps challenge 2020
 ###### Developer: Leo Camacho, Space Apps Local Lead in San Jose.
 ###### ||Data Sources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
