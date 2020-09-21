@@ -2,7 +2,7 @@
 ### Getting started with the NASA APIs and Build a Web App using Satellite Images & Earth Observation Data for the Space Apps challenge 2020
 ###### Developer: Leo Camacho, Space Apps Local Lead in San Jose.
 ###### ||Data Sources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
-###### ||Global Competition 🌎 || 2020 Challenges: Observation, Inform, Sustainable Future, Confront, Create or Find your own challenge! ||
+###### ||Global Competition 🌎 || 2020 Challenges: Observe, Inform, Sustain, Create, Confront, Connect or Invent your own challenge! ||
 
 #### In this workshop we will learn more about using the NASA APIs and access data such as: Satellite Imagery, Earth Data Observation, and many others! 
 
