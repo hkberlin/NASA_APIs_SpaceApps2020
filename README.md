@@ -28,7 +28,7 @@ https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2020-
 ```
 
 ![Mars](https://github.com/leoaiassistant/NASA_APIs/blob/master/IMG/MARS.jpg) 
-> Step 3: [Welcome](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) to GIBS-Global Imagery Browsing Service: [GIBS API](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs), this API is recommended to build from Machine Learning to Mixed Reality models, based on Satellite missions such as [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html) & [Aqua](https://aqua.nasa.gov/) that are located in the earth polar orbit and sincronized with the sun.
+> Step 3: [Welcome](sM9dReXlARhfcp9ctZGxUt8wItACbqJTLMCW3YiI) to GIBS-Global Imagery Browsing Service: [GIBS API](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs), this API is recommended to build from Machine Learning to Mixed Reality models, based on Satellite missions such as [Terra](https://www.nasa.gov/mission_pages/terra/spacecraft/index.html). located in a circular sun-synchronous polar orbit that takes it from north to south (on the daylight side of the Earth) every 99 minutes.
 
 -Step 4: Download Demo > [SpaceApps2020](https://github.com/leoaiassistant/NASA_APIs_SpaceApps2020/)
 
