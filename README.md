@@ -47,7 +47,7 @@ This project shows how to use the GIBS API to visualize data layers of satellite
 
 This project shows how to use GIBS as a tile source for Satellite Images in OpenLayers. We use NASA's Global Image Exploration services [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) as a provider of a pyramid of image mosaics satellites (from the OGC WMTS 1.0.0 specification) and visualize the data layers of the *** Web Map Mosaic Service (WMTS) *** based on parameters such as: date, tile, lat&long, layer, resolution, zoom and other parameters. 
 
-- Include the following functions on your Main.js
+- Include the following functions on your **Main.js
 ```
 window.onload = function () {
   // Seven day slider based off today, remember what today is
